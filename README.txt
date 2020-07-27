@@ -103,3 +103,9 @@ For the unverified customer, by checking the average rating and individual stars
    
    2. The analysis indicates the top reasons of purchasing are "Value, Quality, Collections". And obviously the customers are sensitive with price. Such advantages should be empasized and reinfrced in marketing campaigns and web designs.
 
+## Next steps:
+
+   1. Apply NLP on the product names, to find out the keywords of a popular style. 
+
+   2. If possible, it would be good to look into the actual transaction data. These conclusions from observation are good hypothysis for statistic analysis with the transation data. More concrete conclusions could be made through that analysis.
+
