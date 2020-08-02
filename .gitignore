@@ -1,5 +1,7 @@
 bluenile.csv
 bluenile_n.csv
 bluenile_new.csv
-.png
-.JPG
+*.png
+*.JPG
+*.docx
+.ipynb_checkpoints
